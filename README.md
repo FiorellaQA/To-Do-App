@@ -7,3 +7,5 @@ y el uso de *componentes*.
 * Crear tareas.
 * Checking.
 * Eliminarlas. 
+
+[proyecto finalizado](https://fiorellaqa.github.io/To-Do-App/)
